@@ -1,6 +1,3 @@
-// This activity was designed to run multiple times. For each time uncomment once step, run the JavaScript code,
-// comment the step again and move to the next step. 
-
 // Get a reference to the table body
 var tbody = d3.select("tbody");
 
